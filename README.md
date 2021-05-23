@@ -38,11 +38,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [METTRE UN THEME PERSONNALISE SUR DISCORD WEB | CHROME | FIREFOX | OPERA](https://www.youtube.com/watch?v=6KbqxpsStsE)
 - [LA GALERE COMMENCE [Portal Reloaded] Episode 2 [FR]](https://www.youtube.com/watch?v=l6nSxmdWVUk)
 - [IL FALLAIT QUE JE LE TEST ET JE SUIS PAS DEÇU [Portal Reloaded] Episode 1 [FR]](https://www.youtube.com/watch?v=WEORP9uzdGg)
 - [COMMENT INSTALLER POWERCORD ? | DISCORD](https://www.youtube.com/watch?v=gp0nSw-4Gak)
 - [[DISCORD] AVOIR UN THEME PERSONNALISE ! BetterDiscord](https://www.youtube.com/watch?v=GQtTLJfE9Go)
-- [COMMENT AVOIR UN STATUT PERSONNALISÉ QUI CHANGE TOUT SEUL DISCORD | BETTER DISCORD](https://www.youtube.com/watch?v=6VP6ocMqfhw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/crios_chan)
