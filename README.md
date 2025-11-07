@@ -9,7 +9,7 @@ I'm a developer looking to get into cybersecurity.
 - I'm always looking to learn new things.
 - Currently working on SpringBoot and Angular.
 - I love anime and programming.
-- Member and developer for the [Amaterasu Traduction group](https://mangadex.org/group/9b5b5a4f-0c0a-4b52-996a-dc09e718e722/amaterasu-traduction?tab=titles).
+- Member of the [BigSolo](https://bigsolo.org/) project
 
 ### Connect with me:
 
@@ -29,3 +29,4 @@ I'm a developer looking to get into cybersecurity.
 [youtube]: https://youtube.com/crios_chan
 [instagram]: https://instagram.com/crios_chan
 [discord]: https://discord.me/crioschan
+
