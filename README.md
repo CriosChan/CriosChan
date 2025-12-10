@@ -2,7 +2,7 @@
 
 ![banner](images/banner.jpg)
 
-I'm a developer looking to get into cybersecurity.
+I'm a developer who wants to study computer engineering, and maybe do a PhD in this field.
 
 ## About me
 
@@ -26,7 +26,8 @@ I'm a developer looking to get into cybersecurity.
 <br />
 <br />
 
-[youtube]: https://youtube.com/crios_chan
-[instagram]: https://instagram.com/crios_chan
+[youtube]: https://youtube.com/crioschan
+[instagram]: https://instagram.com/crioschan
 [discord]: https://discord.me/crioschan
+
 
